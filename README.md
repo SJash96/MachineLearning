@@ -13,4 +13,4 @@ Memory optimization has also been applied so that the file can be read and used 
 
 ## Data File
 
-- Provided data comes from the **DataFiles** folder that hosts all *.csv* files that have been merged into one *combinedData.csv* file which is pre-processed and used for the static Machine Learning Analysis
+- Provided data comes from the **DataFiles** folder that hosts all *.csv* files that have been merged into one *combinedData.csv* file which is pre-processed and used for the static Machine Learning Analysis.
