@@ -10,3 +10,7 @@ Memory optimization has also been applied so that the file can be read and used 
 - **Dict.py** contains all dictionary arrays that where used for pre-processing to convert non-integer values to an integer base number
 - **functions.py** contains all methods used to perform machine learning, from reading the file, performing optimization, predictions, accuracy and analysis is done here.
 - **main.py** as the name says it, this is the main file where the program is ran from. Asking user questions and retrieving/printing the results come from this class.
+
+## Data File
+
+- Provided data comes from the **DataFiles** folder that hosts all *.csv* files that have been merged into one *combinedData.csv* file which is pre-processed and used for the static Machine Learning Analysis
