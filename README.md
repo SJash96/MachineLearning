@@ -1,4 +1,4 @@
-# MachineLearning with SKLearn
+# MachineLearning with SKLearn (Static Analysis)
 
 Project using the scikit-learn machine learning libraries to achieve static analysis and determination on a raw dataset provided by UNB.
 Application uses both Decision Trees and Neural Network models to determine results. Results go through a confussion matrix and showcases the prediction accuracy aswell.
